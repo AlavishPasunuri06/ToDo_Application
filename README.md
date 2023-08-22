@@ -1,2 +1,19 @@
-# ToDo_Application
-The To-Do App is a simple yet effective task management tool designed to help you stay organized and focused. With a clean and intuitive user interface, this app allows you to create, manage, and track your tasks effortlessly.
+# To-Do App
+
+The To-Do App is a simple and efficient task management tool designed to help you organize your tasks and stay focused. With an intuitive interface and essential features, this app makes task management a breeze.
+
+
+## Features
+
+- **Task Creation:** Easily add tasks to your list by typing in the input field and clicking "Add."
+
+- **Task Management:** Mark tasks as completed with a single click, and unmark them when needed.
+
+- **Task Deletion:** Remove completed or unwanted tasks to keep your list clean.
+
+- **Responsive Design:** Enjoy a consistent experience across various devices, from desktop to mobile.
+
+
+
+
+
